@@ -225,7 +225,7 @@ const achievementSection = {
   achivementsCards: [
     {
       title: "Bridge Health Monitoring System",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      subtitle: "For our Undergraduate Capstone Project, we created a comprehensive IoT based System for monitoring the structural health of bridges. The system comprises of four modules: Sensor Network Module, Image Processing Module, Audio Processing Module and an Output PWA.",
       // image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         { name: "DEV Post", url: "https://dev.to/parthketandoshi/bridge-health-monitoring-system-using-iot-3ppc" },
@@ -233,8 +233,8 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Compute Engine Chatbot",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      title: "Google Compute Engine FAQ Chatbot",
+      subtitle: "We have created a Conversational Chatbot which will resolve FAQs related to the Google Compute Engine using Dialogflow. We have also created a Single Page Website that will be used to hold the Conversational Chatbot and hosted the Website using Google Firebase.",
       // image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         { name: "Project Webpage", url: "https://ccl-mp.web.app" },
@@ -243,7 +243,7 @@ const achievementSection = {
     },
     {
       title: "Gujarati & Marathi NLP Projects",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      subtitle: "iNLTK (Natural Language Toolkit for Indic Languages) Python Package for implementing NLP on Indian Languages. We implemented Text Classification Python Script for Gujarati and Marathi Languages using Google Colab using the corresponding dataset on Kaggle.",
       // image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         { name: "iNLTK on GitHub", url: "https://github.com/goru001/inltk" },
@@ -253,7 +253,7 @@ const achievementSection = {
     },
     {
       title: "Yodais & Jom Channel",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      subtitle: "For a Freelance Assignment, we created Yodais which is a Platform to Stream Audio and Video with features of a Social Networking Website. We made use of Visual Studio Code, GitLab, HTML, CSS, Bootstrap, Laravel and MySQL.",
       // image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         // { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },

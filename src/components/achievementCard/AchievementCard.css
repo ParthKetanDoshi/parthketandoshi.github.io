@@ -36,7 +36,7 @@ text-align: center;
 }
 .achievement-cards-div {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 500px));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 560px));
     /* grid-template-columns: 50% 50%; */
     gap: 1rem 1rem;
 }
@@ -47,13 +47,14 @@ text-align: center;
     justify-content: center;
 }
 .certificate-card-footer span.certificate-tag {
-    background: #55198b;
-    color: #f5f2f4;
+    background: #feb062;
+    color: #212121;
     vertical-align: middle;
     align-items: center;
     border-radius: 4px;
     display: inline-flex;
     font-size: .75rem;
+    font-weight: bold;
     height: 2em;
     justify-content: center;
     white-space: nowrap;
@@ -64,5 +65,7 @@ text-align: center;
     transition: 0.20s ease-in;
 }
 span.certificate-tag:hover {
-    background: #8c43ce;
+    background: #212121;
+    border: solid 1px #feb062;
+    color: #feb062;
 }

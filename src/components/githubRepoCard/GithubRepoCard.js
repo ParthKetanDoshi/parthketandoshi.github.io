@@ -26,9 +26,9 @@ export default function GithubRepoCard({ repo }) {
         <div className="repo-stats">
           <div className="repo-left-stat">
             <span>
-              {/* <div className="language-color" style={{ backgroundColor: repo.node.primaryLanguage.color }}></div>
-              <div className="language-color"></div>
-              <p>{repo.node.primaryLanguage.name}</p> */}
+              <div className="language-color" style={{ backgroundColor: repo.node.primaryLanguage.color }}></div>
+              {/* <div className="language-color"></div> */}
+              <p>{repo.node.primaryLanguage.name}</p>
               {/* <div
                   className="language-color"
                   style={{ backgroundColor: repo.node.primaryLanguage.color }}

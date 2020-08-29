@@ -14,10 +14,10 @@
   padding-top: 0px;
   padding-bottom: 0px;
   border-radius: 7.5px;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 #topButton:hover {
-  background-color: #000;
+  background-color: #242424;
   transition: all ease-in-out 0.2s;
 }

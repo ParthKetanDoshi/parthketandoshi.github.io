@@ -180,7 +180,7 @@ const workExperiences = {
     },
     {
       role: "General Secretary",   
-      company: "ISTE",
+      company: "ISTE Students' Chapter",
       companylogo: require("./assets/images/iste.jpg"),
       date: "May 2017 – April 2018",
       desc: "Organised and Volunteered in various Technical and Non-technical events, workshops, codelabs and an Industrial Visit and headed a council that comprised of various teams"
@@ -201,7 +201,7 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Achievements",
   subtitle: "",
   projects: [
     {
@@ -219,34 +219,46 @@ const bigProjects = {
 
 const achievementSection = {
 
-  title: "Achievements And Certifications",
+  title: "Projects",
   subtitle: "",
 
   achivementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Bridge Health Monitoring System",
       subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      // image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "DEV Post", url: "https://dev.to/parthketandoshi/bridge-health-monitoring-system-using-iot-3ppc" },
+        { name: "Output PWA on GitHub", url: "https://github.com/Bridge-Health-Monitoring-System/Output-PWA" }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Google Compute Engine Chatbot",
+      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      // image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
+        { name: "Project Webpage", url: "https://ccl-mp.web.app" },
+        // { name: "Tutorial for Chatbot", url: "https://youtu.be/aahtxFGiSko" }
+      ]
+    },
+    {
+      title: "Gujarati & Marathi NLP Projects",
+      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      // image: require("./assets/images/codeInLogo.webp"),
+      footerLink: [
+        { name: "iNLTK on GitHub", url: "https://github.com/goru001/inltk" },
+        { name: "Gujarati Colab File", url: "https://colab.research.google.com/drive/12vVV9AOyRRPf_BkFGj_e27cdaUXHKJEO?usp=sharing" },
+        { name: "Marathi Colab File", url: "https://colab.research.google.com/drive/1kfykfypgbh8opnE7AlyMytWmaNqjmgsE?usp=sharing" }
+      ]
+    },
+    {
+      title: "Yodais & Jom Channel",
+      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      // image: require("./assets/images/codeInLogo.webp"),
+      footerLink: [
+        // { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
+        // { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
+        // { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
       ]
     }
   ]

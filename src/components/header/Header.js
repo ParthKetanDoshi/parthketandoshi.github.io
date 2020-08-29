@@ -30,10 +30,10 @@ function Header() {
             <a href="#opensource">Git Snip</a>
           </li>
           <li>
-            <a href="#projects">Projects</a>
+            <a href="#achievements">Projects</a>
           </li>
           <li>
-            <a href="#achievements">Achievements</a>
+            <a href="#projects">Achievements</a>
           </li>
           <li>
             <a href="#contact">Contact Me</a>

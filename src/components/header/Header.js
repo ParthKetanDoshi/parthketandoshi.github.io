@@ -27,7 +27,7 @@ function Header() {
             </li>
           }
           <li>
-            <a href="#opensource">Open Source</a>
+            <a href="#opensource">Git Snip</a>
           </li>
           <li>
             <a href="#projects">Projects</a>

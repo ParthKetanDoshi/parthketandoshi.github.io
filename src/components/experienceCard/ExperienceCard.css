@@ -1,9 +1,9 @@
 .experience-card {
     position: relative;
-    background-color: rgb(255, 255, 255);
+    background-color: #222222;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
     border-radius: 10px;
-    border: 1px solid rgba(211, 211, 211, 0.397);
+    border: 1px solid #333333;
 }
 
 .experience-card:hover {
@@ -79,11 +79,12 @@
     height: 8rem;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
     border-radius: 50%;
+    border: 3px solid #333333;
 }
 
 .experience-text-role {
     text-align: center;
-    color: black;
+    color: white;
     font-weight: 700;
     font-size: 25px;
     margin: 0px;
@@ -93,7 +94,7 @@
 
 .experience-text-date {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 20px;
     margin: 0px;
     padding-top: 1rem;
@@ -102,6 +103,7 @@
 
 .experience-text-desc {
     text-align: center;
+    color: #aaaaaa;
 }
 
 .experience-text-details {

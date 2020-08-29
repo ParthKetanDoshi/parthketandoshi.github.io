@@ -144,30 +144,47 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",  
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      role: "Tech Mentor",  
+      company: "CampK12",
+      companylogo: require("./assets/images/campkt.png"),
+      date: "April 2020 – May 2020",
+      desc: "Worked as an instructor at CampK12 where I taught Android App Development on MIT App Inventor Platform using Scratch, 3D coding & VR using HatchXR platform and HTML, CSS and JavaScript using CodePen.",
     },
     {
-      role: "Front-End Developer",   
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Software Development Intern",   
+      company: "FUBE Technology",
+      companylogo: require("./assets/images/fube.jpeg"),
+      date: "January 2019 – April 2019",
+      desc: "Worked on Yodais and Jom Channel products by Fube Technology, Malaysia for the Front-end of a Bootstrap based Website"
     },
     {
-      role: "Software Engineer Intern",  
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Android & Python App Dev Intern",  
+      company: "Trivia Software",
+      companylogo: require("./assets/images/trivia.png"),
+      date: "July 2018 – August 2018",
+      desc: "Developed Android and Python Desktop Application during this internship and gained a lot of knowledge related to these technologies"
     },
+    {
+      role: "Wordpress Admin & SEO Manager Intern",  
+      company: "Toppr",
+      companylogo: require("./assets/images/toppr.png"),
+      date: "February 2018 – June 2018",
+      desc: "Joined Toppr as a Content Development Intern and worked on technical aspects of the project like Wordpress Administration, SEO, MathJAX and also managing other Interns & Freelancers",
+    },
+    {
+      role: "Graphic Designing Intern",   
+      company: "IdealVillage",
+      companylogo: require("./assets/images/idealvillage.png"),
+      date: "February 2018 – March 2018",
+      desc: "Designed promotional material like posters, banners and videos for IdealVillage, an NGO incubatee of CCBUL as part of an unpaid and work from home internship"
+    },
+    {
+      role: "General Secretary",   
+      company: "ISTE",
+      companylogo: require("./assets/images/iste.jpg"),
+      date: "May 2017 – April 2018",
+      desc: "Organised and Volunteered in various Technical and Non-technical events, workshops, codelabs and an Industrial Visit and headed a council that comprised of various teams"
+    }
   ]
 };
 
@@ -188,11 +205,11 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/campkt.png"),
       link: "http://saayahealth.com/"
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/campkt.png"),
       link: "http://nextu.se/"
     }
   ]

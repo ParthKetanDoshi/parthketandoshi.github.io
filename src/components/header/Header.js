@@ -36,6 +36,9 @@ function Header() {
             <a href="#projects">Certifications</a>
           </li>
           <li>
+            <a href="#blogs">Miscellaneous</a>
+          </li>
+          <li>
             <a href="#contact">Contact</a>
           </li>
         </ul>

@@ -266,24 +266,54 @@ const achievementSection = {
 
 // Blogs Section
 
-// const blogSection = {
+const blogSection = {
 
-//   title: "Blogs",
-//   subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+  title: "Miscellaneous",
+  subtitle: "",
 
-//   blogs: [
-//     {
-//       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-//       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-//       description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-//     },
-//     {
-//       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-//       title: "Why REACT is The Best?",
-//       description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-//     }
-//   ]
-// };
+  blogs: [
+    {
+      // url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      title: "Organizing Head of Industrial Visit and Outbound Activity",
+      // description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+    },
+    {
+      // url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Core Member of TAPtheTECH (NGO, YouTube Channel & Coursera Learning Hub)",
+      // description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    },
+    {
+      // url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Participated in Hacktoberfest",
+      // description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    },
+    {
+      // url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Participated in Git Remote Graduation organised by GitHub and DEV Community",
+      // description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    },
+    {
+      // url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Cracked TCS CodeVita",
+      // description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    },
+    {
+      // url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Cracked Infosys HackWithInfy",
+      // description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    },
+    {
+      // url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Participated in Google Hash Code",
+      // description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    },
+    {
+      // url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Part of LinkedIn Campus Editor Community",
+      // description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    }
+  ]
+};
 
 // Talks Sections
 
@@ -325,4 +355,4 @@ const contactInfo = {
 //   userName : "twitter"//Replace "twitter" with your twitter username without @
   
 // };
-export { greeting, socialMediaLinks, skillsSection, workExperiences, openSource, bigProjects, achievementSection, contactInfo};
+export { greeting, socialMediaLinks, skillsSection, workExperiences, openSource, bigProjects, blogSection, achievementSection, contactInfo};

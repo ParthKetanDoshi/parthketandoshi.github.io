@@ -253,12 +253,11 @@ const achievementSection = {
     },
     {
       title: "Yodais & Jom Channel",
-      subtitle: "For a Freelance Assignment, we created Yodais which is a Platform to Stream Audio and Video with features of a Social Networking Website. We made use of Visual Studio Code, GitLab, HTML, CSS, Bootstrap, Laravel and MySQL.",
+      subtitle: "For a Freelance Project, we created Yodais which is a Platform for Streaming with aspects of a Social Networking Website. We made use of Visual Studio Code, GitLab, HTML, CSS, Bootstrap, Laravel and MySQL. I have worked on the Front-end of the Project.",
       // image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
-        // { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        // { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        // { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "Yodais on GitLab", url: "https://gitlab.com/vivekbgawande/yodais" },
+        { name: "Jom Channel on GitLab", url: "https://gitlab.com/vivekbgawande/jom-channel" }
       ]
     }
   ]
@@ -312,7 +311,7 @@ const achievementSection = {
 // };
 
 const contactInfo = {
-  title: "Contact Me",
+  title: "Contact",
   subtitle: "",
   number: "+918169664802",
   email_address: "parthdoshi97@gmail.com"

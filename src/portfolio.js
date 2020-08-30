@@ -32,11 +32,12 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "Skills",
   subTitle: "",
-  // skills: [
-  //   emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
-  //   emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-  //   emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
-  // ],
+  skills: [
+    emoji("🔸 Trainings:"),
+    "Python App Development",
+    "Android App Development",
+    "iOS App Development"
+  ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
@@ -201,16 +202,16 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Achievements",
+  title: "Certifications",
   subtitle: "",
   projects: [
     {
-      image: require("./assets/images/campkt.png"),
-      link: "http://saayahealth.com/"
+      image: require("./assets/images/kaggle.png"),
+      link: "https://drive.google.com/drive/folders/1oWUVxi1P8S8ElNQmSN9Xka46GRAXDj3f?usp=sharing"
     },
     {
-      image: require("./assets/images/campkt.png"),
-      link: "http://nextu.se/"
+      image: require("./assets/images/coursera.png"),
+      link: "https://drive.google.com/drive/folders/1i2ML5otr9yD5wwPzyGHMfO29A8hOX6t0?usp=sharing"
     }
   ]
 };
@@ -312,9 +313,9 @@ const achievementSection = {
 
 const contactInfo = {
   title: "Contact",
-  subtitle: "",
+  subtitle: "You can reach out to me at ",
   number: "+918169664802",
-  email_address: "parthdoshi97@gmail.com"
+  email_address: "Parthdoshi97@GMail.com"
 };
 
 //Twitter Section

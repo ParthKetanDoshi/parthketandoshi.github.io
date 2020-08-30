@@ -33,7 +33,7 @@ function Header() {
             <a href="#achievements">Projects</a>
           </li>
           <li>
-            <a href="#projects">Achievements</a>
+            <a href="#projects">Certifications</a>
           </li>
           <li>
             <a href="#contact">Contact</a>

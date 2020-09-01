@@ -896,6 +896,9 @@ body {
     max-width: 100%;
     height: auto
 }
+.starup-project-image:hover {
+    border: 1px solid #feb062;
+}
 
 .repo-cards-div-main {
     display: grid;

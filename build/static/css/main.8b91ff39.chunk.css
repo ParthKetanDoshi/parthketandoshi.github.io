@@ -896,9 +896,6 @@ body {
     max-width: 100%;
     height: auto
 }
-.starup-project-text img:hover {
-    border: 1px solid #feb062;
-}
 
 .repo-cards-div-main {
     display: grid;
@@ -1126,6 +1123,9 @@ body {
 .saaya-health-div {
     cursor: pointer;
     margin-right: 10px
+}
+.saaya-health-div:hover{
+    box-shadow: 0 20px 30px -10px hsla(0, 0%, 66.7%, .25)
 }
 
 @media (max-width:768px) {

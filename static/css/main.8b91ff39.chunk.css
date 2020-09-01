@@ -1436,7 +1436,8 @@ screen and (min-width:481px) and (max-width:675px) {
 }
 
 .contact-div-main {
-    display: flex
+    display: flex;
+    width: 50%;
 }
 
 .contact-div-main>* {

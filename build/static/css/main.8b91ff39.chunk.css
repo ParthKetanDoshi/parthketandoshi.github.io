@@ -896,7 +896,7 @@ body {
     max-width: 100%;
     height: auto
 }
-.starup-project-image:hover {
+.starup-project-text img:hover {
     border: 1px solid #feb062;
 }
 

@@ -800,12 +800,7 @@
             }, p.d.number), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement("a", {
                 className: "contact-detail-email",
                 href: "mailto:" + p.d.email_address
-            }, p.d.email_address), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement(h.a, null), 
-            // l.a.createElement("img", {
-            //     alt: "Contact Pic",
-            //     src: "static/media/hacktoberfest.jpeg"
-            // })
-            )))))
+            }, p.d.email_address), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement(h.a, null))))))
         }
         a(99);
 

@@ -800,9 +800,10 @@
             }, p.d.number), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement("a", {
                 className: "contact-detail-email",
                 href: "mailto:" + p.d.email_address
-            }, p.d.email_address), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement(h.a, null)))))).append(
-                '<p style="text-align: center;"><img src="static/media/hacktoberfest.jpeg" alt="Parth Doshi" style="border-radius: 50%;border: .5rem solid #868e96;width: 300px;"></p>'
-            )
+            }, p.d.email_address), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement(h.a, null), l.a.createElement("img", {
+                alt: "Contact Pic",
+                src: "static/media/hacktoberfest.jpeg"
+            }))))))
         }
         a(99);
 

@@ -804,23 +804,23 @@
         }
         a(99);
 
-        function F() {
-            return l.a.createElement(E.Fade, {
-                bottom: !0,
-                duration: 1e3,
-                distance: "5px"
-            }, l.a.createElement("div", {
-                className: "footer-div"
-            }, l.a.createElement("p", {
-                className: "footer-text"
-            }, N()("Remixed with \u2764\ufe0f by Parth Doshi")), l.a.createElement("p", {
-                className: "footer-text"
-            }, "Theme by ", l.a.createElement("a", {
-                href: "https://github.com/saadpasta/developerFolio"
-            }, "developerFolio"))))
-        }
-        a(100), a(101);
-        a(102), a(103);
+        // function F() {
+        //     return l.a.createElement(E.Fade, {
+        //         bottom: !0,
+        //         duration: 1e3,
+        //         distance: "5px"
+        //     }, l.a.createElement("div", {
+        //         className: "footer-div"
+        //     }, l.a.createElement("p", {
+        //         className: "footer-text"
+        //     }, N()("Remixed with \u2764\ufe0f by Parth Doshi")), l.a.createElement("p", {
+        //         className: "footer-text"
+        //     }, "Theme by ", l.a.createElement("a", {
+        //         href: "https://github.com/saadpasta/developerFolio"
+        //     }, "developerFolio"))))
+        // }
+        // a(100), a(101);
+        // a(102), a(103);
 
         function J() {
             function e() {

@@ -111,7 +111,7 @@
                     role: "Software Development Intern",
                     company: "FUBE Technology",
                     companylogo: a(63),
-                    date: "January 2019 \u2013 April 2019",
+                    date: "December 2018 \u2013 March 2019",
                     desc: "Worked on Yodais and Jom Channel products by Fube Technology, Malaysia for the Front-end of a Bootstrap based Website"
                 }, {
                     role: "Android & Python App Dev Intern",

@@ -106,7 +106,7 @@
                     company: "CampK12",
                     companylogo: a(62),
                     date: "April 2020 \u2013 May 2020",
-                    desc: "Worked as an instructor at CampK12 where I taught Android App Development on MIT App Inventor Platform using Scratch, 3D coding & VR using HatchXR platform and HTML, CSS and JavaScript using CodePen."
+                    desc: "Worked as an instructor at CampK12 where I taught Android App Development on MIT App Inventor Platform using Scratch, 3D coding & VR using HatchXR platform and HTML, CSS and JavaScript using CodePen"
                 }, {
                     role: "Software Development Intern",
                     company: "FUBE Technology",

@@ -162,8 +162,11 @@
                     title: "Bridge Health Monitoring System",
                     subtitle: "For our Undergraduate Capstone Project, we created a comprehensive IoT based System for monitoring the structural health of bridges. The system comprises of four modules: Sensor Network Module, Image Processing Module, Audio Processing Module and an Output PWA.",
                     footerLink: [{
-                        name: "DEV Post",
+                        name: "Image Module DEV Post",
                         url: "https://dev.to/parthketandoshi/bridge-health-monitoring-system-using-iot-3ppc"
+                    }, {
+                        name: "Image Module GitHub Gist",
+                        url: "https://gist.github.com/ParthKetanDoshi/fee5a1bf62fc9cd81dc09f6cb653b38b"
                     }, {
                         name: "Output PWA on GitHub",
                         url: "https://github.com/Bridge-Health-Monitoring-System/Output-PWA"

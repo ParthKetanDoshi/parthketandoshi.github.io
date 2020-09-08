@@ -168,7 +168,7 @@
                         name: "Image Module GitHub Gist",
                         url: "https://gist.github.com/ParthKetanDoshi/fee5a1bf62fc9cd81dc09f6cb653b38b"
                     }, {
-                        name: "Output PWA on GitHub",
+                        name: "Output PWA GitHub Repo",
                         url: "https://github.com/Bridge-Health-Monitoring-System/Output-PWA"
                     }]
                 }, {
@@ -182,7 +182,7 @@
                     title: "Gujarati & Marathi NLP Projects",
                     subtitle: "iNLTK (Natural Language Toolkit for Indic Languages) is Python Package used for implementing NLP on Indian Languages. Referring to its repo Github, we implemented Text Classification for Gujarati and Marathi Languages using their corresponding datasets on Kaggle.",
                     footerLink: [{
-                        name: "iNLTK on GitHub",
+                        name: "iNLTK GitHub Repo",
                         url: "https://github.com/goru001/inltk"
                     }, {
                         name: "Gujarati Colab File",
@@ -195,10 +195,10 @@
                     title: "Yodais & Jom Channel",
                     subtitle: "For a Freelance Project, we created Yodais which is a Platform for Streaming with aspects of a Social Networking Website. We made use of Visual Studio Code, GitLab, HTML, CSS, Bootstrap, Laravel and MySQL. I have worked on the Front-end of the Project.",
                     footerLink: [{
-                        name: "Yodais on GitLab",
+                        name: "Yodais GitLab Repo",
                         url: "https://gitlab.com/vivekbgawande/yodais"
                     }, {
-                        name: "Jom Channel on GitLab",
+                        name: "Jom Channel GitLab Repo",
                         url: "https://gitlab.com/vivekbgawande/jom-channel"
                     }]
                 }]

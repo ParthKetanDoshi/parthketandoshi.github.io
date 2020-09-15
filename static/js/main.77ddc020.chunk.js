@@ -168,6 +168,9 @@
                         name: "Image Module GitHub Gist",
                         url: "https://gist.github.com/ParthKetanDoshi/fee5a1bf62fc9cd81dc09f6cb653b38b"
                     }, {
+                        name: "Published Survey Paper",
+                        url: "https://www.ijresm.com/articles/survey-on-iot-based-bridge-health-monitoring-systems/"
+                    }, {
                         name: "Output PWA GitHub Repo",
                         url: "https://github.com/Bridge-Health-Monitoring-System/Output-PWA"
                     }]

@@ -783,31 +783,30 @@
         a(98);
 
         function R() {
-            // return l.a.createElement(E.Fade, {
-            //     bottom: !0,
-            //     duration: 1e3,
-            //     distance: "20px"
-            // }, l.a.createElement("div", {
-            //     className: "main contact-margin-top",
-            //     id: "contact"
-            // }, l.a.createElement("div", {
-            //     className: "contact-div-main"
-            // }, l.a.createElement("div", {
-            //     className: "contact-header"
-            // }, l.a.createElement("h1", {
-            //     className: "heading contact-title"
-            // }, p.d.title), l.a.createElement("p", {
-            //     className: "subTitle contact-subtitle"
-            // }, p.d.subtitle), l.a.createElement("div", {
-            //     className: "contact-text-div"
-            // }, l.a.createElement("a", {
-            //     className: "contact-detail",
-            //     href: "tel:" + p.d.number
-            // }, p.d.number), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement("a", {
-            //     className: "contact-detail-email",
-            //     href: "mailto:" + p.d.email_address
-            // }, p.d.email_address), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement(h.a, null))))))
-            return null
+            return l.a.createElement(E.Fade, {
+                bottom: !0,
+                duration: 1e3,
+                distance: "20px"
+            }, l.a.createElement("div", {
+                className: "main contact-margin-top",
+                id: "contact"
+            }, l.a.createElement("div", {
+                className: "contact-div-main"
+            }, l.a.createElement("div", {
+                className: "contact-header"
+            }, l.a.createElement("h1", {
+                className: "heading contact-title"
+            }, p.d.title), l.a.createElement("p", {
+                className: "subTitle contact-subtitle"
+            }, p.d.subtitle), l.a.createElement("div", {
+                className: "contact-text-div"
+            }, l.a.createElement("a", {
+                className: "contact-detail",
+                href: "tel:" + p.d.number
+            }, p.d.number), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement("a", {
+                className: "contact-detail-email",
+                href: "mailto:" + p.d.email_address
+            }, p.d.email_address), l.a.createElement("br", null), l.a.createElement("br", null), l.a.createElement(h.a, null))))))
         }
         a(99);
 

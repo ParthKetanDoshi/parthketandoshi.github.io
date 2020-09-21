@@ -1449,7 +1449,8 @@ screen and (min-width:481px) and (max-width:675px) {
     font-weight: 400;
     color: #feb062;
     width: 50%;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .contact-detail,
@@ -1473,7 +1474,9 @@ screen and (min-width:481px) and (max-width:675px) {
 .contact-subtitle {
     text-transform: uppercase;
     width: 50%;
-    font-size: 25px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .contact-text-div {

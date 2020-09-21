@@ -1484,8 +1484,9 @@ screen and (min-width:481px) and (max-width:675px) {
     height: auto
 }
 
-@media (max-width:768px),
-(max-width:1380px) {
+/* @media (max-width:768px),
+(max-width:1380px) { */
+@media (max-width:768px) {
     .contact-title {
         font-size: 56px;
         font-weight: 400;

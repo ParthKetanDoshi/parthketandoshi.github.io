@@ -1440,9 +1440,9 @@ screen and (min-width:481px) and (max-width:675px) {
     display: flex
 }
 
-.contact-div-main>* {
+/* .contact-div-main>* {
     flex: 1 1
-}
+} */
 
 .contact-title {
     font-size: 65px;

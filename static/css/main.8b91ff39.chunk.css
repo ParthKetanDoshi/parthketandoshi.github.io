@@ -1488,7 +1488,7 @@ screen and (min-width:481px) and (max-width:675px) {
     height: auto
 }
 
-@media (max-width:768px),
+/* @media (max-width:768px),
 (max-width:1380px) {
     .contact-title {
         font-size: 56px;
@@ -1516,7 +1516,7 @@ screen and (min-width:481px) and (max-width:675px) {
     .contact-image-div {
         display: none
     }
-}
+} */
 
 .footer-text,
 a {

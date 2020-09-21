@@ -1750,9 +1750,9 @@ a {
 }
 
 @media (max-width:768px) {
-    /* .contact-div-main {
+    .contact-div-main {
         display: block
-    } */
+    }
     .contact-info {
         width: 100%;
     }

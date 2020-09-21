@@ -1445,7 +1445,7 @@ screen and (min-width:481px) and (max-width:675px) {
 } */
 
 .contact-title {
-    font-size: 65px;
+    font-size: 50px;
     font-weight: 400;
     color: #feb062;
     width: 50%;
@@ -1454,7 +1454,7 @@ screen and (min-width:481px) and (max-width:675px) {
 .contact-detail,
 .contact-detail-email {
     margin-top: 20px;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 400;
     color: #868e96;
     text-decoration: none;

@@ -1447,7 +1447,8 @@ screen and (min-width:481px) and (max-width:675px) {
 .contact-title {
     font-size: 65px;
     font-weight: 400;
-    color: #feb062
+    color: #feb062;
+    width: 50%;
 }
 
 .contact-detail,
@@ -1456,7 +1457,8 @@ screen and (min-width:481px) and (max-width:675px) {
     font-size: 40px;
     font-weight: 400;
     color: #868e96;
-    text-decoration: none
+    text-decoration: none;
+    width: 50%;
 }
 
 .contact-detail-email:hover,
@@ -1468,11 +1470,13 @@ screen and (min-width:481px) and (max-width:675px) {
 }
 
 .contact-subtitle {
-    text-transform: uppercase
+    text-transform: uppercase;
+    width: 50%;
 }
 
 .contact-text-div {
-    margin-top: 1.5rem
+    margin-top: 1.5rem;
+    width: 50%;
 }
 
 .contact-margin-top {

@@ -1437,7 +1437,7 @@ screen and (min-width:481px) and (max-width:675px) {
 }
 
 .contact-div-main {
-    display: grid
+    display: flex
 }
 
 .contact-div-main>* {
@@ -1750,6 +1750,9 @@ a {
 }
 
 @media (max-width:768px) {
+    .contact-div-main {
+        display: block
+    }
     .contact-info {
         width: 100%;
     }

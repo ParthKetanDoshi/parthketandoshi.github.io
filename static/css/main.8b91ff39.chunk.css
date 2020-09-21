@@ -1445,10 +1445,11 @@ screen and (min-width:481px) and (max-width:675px) {
 } */
 
 .contact-title {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 400;
     color: #feb062;
     width: 50%;
+    margin: 10px;
 }
 
 .contact-detail,
@@ -1472,6 +1473,7 @@ screen and (min-width:481px) and (max-width:675px) {
 .contact-subtitle {
     text-transform: uppercase;
     width: 50%;
+    font-size: 25px;
 }
 
 .contact-text-div {

@@ -1753,11 +1753,11 @@ a {
     .contact-div-main {
         display: block
     }
-    .contact-info>* {
+    .contact-info {
         width: 100%;
         height: auto;
     }
-    .contact-pic>* {
+    .contact-pic {
         width: 100%;
         height: auto;
     }
@@ -1765,12 +1765,12 @@ a {
         font-size: 35px;
     } */
     .contact-detail,
-    .contact-detail-email>* {
+    .contact-detail-email {
         font-size: 18px;
         width: 100%;
         height: auto;
     }
-    .contact-subtitle>* {
+    .contact-subtitle>img {
         font-size: 15px;
         width: 100%;
         height: auto;

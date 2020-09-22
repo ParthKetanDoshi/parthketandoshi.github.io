@@ -1442,7 +1442,7 @@ screen and (min-width:481px) and (max-width:675px) {
 
 .contact-div-main>* {
     flex: 1 1;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .contact-title {

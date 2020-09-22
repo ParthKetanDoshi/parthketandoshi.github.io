@@ -1761,6 +1761,9 @@ a {
         width: 100%;
         height: auto;
     }
+    .contact-pic>img {
+        width: 100%;
+    }
     /* .contact-title {
         font-size: 35px;
     } */
@@ -1770,7 +1773,7 @@ a {
         width: 100%;
         height: auto;
     }
-    .contact-subtitle>img {
+    .contact-subtitle {
         font-size: 15px;
         width: 100%;
         height: auto;

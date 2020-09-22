@@ -276,7 +276,7 @@
                 target: "_blank"
             }, l.a.createElement("i", {
                 className: "fab fa-behance"
-            }), l.a.createElement("span", null)) : null, i.h.behance ? l.a.createElement("a", {
+            }), l.a.createElement("span", null)) : null, i.h.devto ? l.a.createElement("a", {
                 href: i.h.devto,
                 className: "icon-button devto",
                 target: "_blank"

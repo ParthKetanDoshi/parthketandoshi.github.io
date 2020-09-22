@@ -476,8 +476,7 @@ body {
 
 @media (max-width:768px) {
     .social-media-div {
-        text-align: center;
-        width: 90%;
+        text-align: center
     }
 }
 

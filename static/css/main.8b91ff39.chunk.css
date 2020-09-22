@@ -1754,11 +1754,11 @@ a {
         display: block
     }
     .contact-info {
-        max-width: 100%;
+        width: 100%;
         height: auto;
     }
     .contact-pic {
-        max-width: 100%;
+        width: 100%;
         height: auto;
     }
     /* .contact-title {
@@ -1767,12 +1767,12 @@ a {
     .contact-detail,
     .contact-detail-email {
         font-size: 18px;
-        max-width: 100%;
+        width: 100%;
         height: auto;
     }
     .contact-subtitle {
         font-size: 15px;
-        max-width: 100%;
+        width: 100%;
         height: auto;
     }
 }

@@ -35,6 +35,7 @@
                 gmail: "parthdoshi97@gmail.com",
                 linkedin: "https://www.linkedin.com/in/parthketandoshi/",
                 behance: "https://www.behance.net/parthketandoshi",
+                devto: "https://dev.to/parthketandoshi",
                 twitter: "https://twitter.com/ParthDoshi97",
                 facebook: "https://www.facebook.com/parthdoshi97",
                 instagram: "https://www.instagram.com/parth_k_d/"
@@ -275,6 +276,12 @@
                 target: "_blank"
             }, l.a.createElement("i", {
                 className: "fab fa-behance"
+            }), l.a.createElement("span", null)) : null, i.h.behance ? l.a.createElement("a", {
+                href: i.h.devto,
+                className: "icon-button devto",
+                target: "_blank"
+            }, l.a.createElement("i", {
+                className: "fab fa-dev"
             }), l.a.createElement("span", null)) : null, i.h.twitter ? l.a.createElement("a", {
                 href: i.h.twitter,
                 className: "icon-button twitter",

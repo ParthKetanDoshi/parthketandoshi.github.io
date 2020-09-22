@@ -412,6 +412,10 @@ body {
     transition: .2s ease-in
 }
 
+.devto i {
+    background-color: #8cacdc
+}
+
 .facebook i {
     background-color: #3b5998
 }
@@ -457,6 +461,7 @@ body {
 }
 
 .behance i:hover,
+.devto i:hover,
 .facebook i:hover,
 .github i:hover,
 .gitlab i:hover,

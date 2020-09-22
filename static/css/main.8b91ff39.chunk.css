@@ -1754,10 +1754,12 @@ a {
         display: block
     }
     .contact-info {
-        width: 100%;
+        max-width: 100%;
+        height: auto;
     }
     .contact-pic {
-        width: 100%;
+        max-width: 100%;
+        height: auto;
     }
     /* .contact-title {
         font-size: 35px;
@@ -1765,9 +1767,13 @@ a {
     .contact-detail,
     .contact-detail-email {
         font-size: 18px;
+        max-width: 100%;
+        height: auto;
     }
     .contact-subtitle {
         font-size: 15px;
+        max-width: 100%;
+        height: auto;
     }
 }
 /*# sourceMappingURL=main.8b91ff39.chunk.css.map */

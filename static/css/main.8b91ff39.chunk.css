@@ -1786,9 +1786,84 @@ a {
     }
 }
 
-@keyframes beat{
+/* @keyframes beat{
     50%{
         transform: scale(1.25);
     }
+} */
+
+@-webkit-keyframes beat {
+    0% {
+        -webkit-transform: scale(0.5);
+        transform: scale(0.5)
+    }
+
+    10% {
+        -webkit-transform: scale(0.6);
+        transform: scale(0.6)
+    }
+
+    20% {
+        -webkit-transform: scale(0.7);
+        transform: scale(0.7)
+    }
+
+    30% {
+        -webkit-transform: scale(0.8);
+        transform: scale(0.8)
+    }
+
+    40% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9)
+    }
+
+    50% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    to {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2)
+    }
 }
+
+@keyframes beat {
+    0% {
+        -webkit-transform: scale(0.5);
+        transform: scale(0.5)
+    }
+
+    10% {
+        -webkit-transform: scale(0.6);
+        transform: scale(0.6)
+    }
+
+    20% {
+        -webkit-transform: scale(0.7);
+        transform: scale(0.7)
+    }
+
+    30% {
+        -webkit-transform: scale(0.8);
+        transform: scale(0.8)
+    }
+
+    40% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9)
+    }
+
+    50% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    to {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2)
+    }
+}
+
 /*# sourceMappingURL=main.8b91ff39.chunk.css.map */

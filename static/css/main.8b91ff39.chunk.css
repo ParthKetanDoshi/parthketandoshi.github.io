@@ -1788,7 +1788,7 @@ a {
 
 @keyframes beat{
     50%{
-        transform: scale(1.5);
+        transform: scale(1.25);
     }
 }
 /*# sourceMappingURL=main.8b91ff39.chunk.css.map */

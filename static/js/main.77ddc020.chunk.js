@@ -219,9 +219,9 @@
                 }, {
                     title: "Participated in Git Remote Graduation organised by GitHub and DEV Community"
                 }, {
-                    title: "Cracked TCS CodeVita"
+                    title: "Cracked TCS CodeVita ranking among top 10% participants"
                 }, {
-                    title: "Cracked Infosys HackWithInfy"
+                    title: "Cracked Infosys HackWithInfy ranking among top 2.5% participants"
                 }, {
                     title: "Participated in Google Hash Code"
                 }, {

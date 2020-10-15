@@ -387,7 +387,8 @@ body {
 }
 
 .social-media-div {
-    font-size: 2em
+    font-size: 2em;
+    margin-top: 1rem;
 }
 
 .icon-button {
@@ -1488,7 +1489,7 @@ screen and (min-width:481px) and (max-width:675px) {
 }
 
 .contact-text-div {
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     width: 50%;
 }
 

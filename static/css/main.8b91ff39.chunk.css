@@ -92,15 +92,16 @@ body {
     padding: 20px;
     color: #feb062;
     border: 1px solid #222;
-    border-radius: 10px;
+    border-radius: 7px;
     text-decoration: none
 }
 
 .header .menu-btn:hover,
 .header li a:hover {
-    background-color: #222;
+    background-color: #feb062;
     border: 1px solid #feb062;
-    border-radius: 10px
+    color: #222;
+    border-radius: 7px
 }
 
 .header .logo {

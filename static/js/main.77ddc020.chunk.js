@@ -208,7 +208,7 @@
                 }]
             },
             d = {
-                title: "Miscellaneous",
+                title: "Achievements",
                 subtitle: "",
                 blogs: [{
                     title: "Organizing Head of Industrial Visit and Outbound Activity"
@@ -377,7 +377,7 @@
                     href: "#projects"
                 }, "Certifications")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#blogs"
-                }, "Miscellaneous")), l.a.createElement("li", null, l.a.createElement("a", {
+                }, "Achievements")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#contact"
                 }, "Contact")))))
             },

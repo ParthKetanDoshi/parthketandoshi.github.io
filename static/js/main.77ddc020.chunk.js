@@ -154,6 +154,9 @@
                 }, {
                     image: a(69),
                     link: "https://parthketandoshi.github.io/certifications/Coursera.pdf"
+                }, {
+                    image: "static/media/datacamp.png",
+                    link: "https://parthketandoshi.github.io/certifications/Datacamp.pdf"
                 }]
             },
             u = {

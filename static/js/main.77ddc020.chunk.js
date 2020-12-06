@@ -31,7 +31,7 @@
             },
             r = {
                 github: "https://github.com/parthketandoshi",
-                gitlab: "https://gitlab.com/parthdoshi97",
+                gitlab: "https://gitlab.com/parthketandoshi",
                 gmail: "parthdoshi97@gmail.com",
                 linkedin: "https://www.linkedin.com/in/parthketandoshi/",
                 behance: "https://www.behance.net/parthketandoshi",

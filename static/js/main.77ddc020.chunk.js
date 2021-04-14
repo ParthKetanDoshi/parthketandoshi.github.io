@@ -158,10 +158,10 @@
                     image: "static/media/datacamp.png",
                     link: "https://parthketandoshi.github.io/certifications/Datacamp.pdf"
                 }, 
-                // {
-                //     image: "static/media/udemy.png",
-                //     link: "https://parthketandoshi.github.io/certifications/Udemy.pdf"
-                // }
+                {
+                    image: "static/media/udemy.png",
+                    link: "https://parthketandoshi.github.io/certifications/Udemy.pdf"
+                }
             ]
             },
             u = {

@@ -178,7 +178,7 @@
                         url: "https://gist.github.com/ParthKetanDoshi/fee5a1bf62fc9cd81dc09f6cb653b38b"
                     }, {
                         name: "Published Survey Paper",
-                        url: "https://www.ijresm.com/articles/survey-on-iot-based-bridge-health-monitoring-systems/"
+                        url: "https://www.ijresm.com/Vol.3_2020/Vol3_Iss4_April20/IJRESM_V3_I4_19.pdf"
                     }, {
                         name: "Output PWA GitHub Repo",
                         url: "https://github.com/Bridge-Health-Monitoring-System/Output-PWA"

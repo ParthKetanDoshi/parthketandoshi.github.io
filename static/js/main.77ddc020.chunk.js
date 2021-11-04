@@ -146,7 +146,7 @@
                 showGithubProfile: "false"
             },
             m = {
-                title: "Certifications",
+                title: "MOOCs",
                 subtitle: "",
                 projects: [{
                     image: a(68),

@@ -702,9 +702,7 @@
                     alt: "Certifications",
                     src: e.image
                 }))
-            }))), l.a.createElement("div", {
-                className: "starup-project-image"
-            })))))
+            })))))))
         }
         a(94), a(95);
 

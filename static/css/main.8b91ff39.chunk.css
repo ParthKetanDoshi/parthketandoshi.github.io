@@ -1107,11 +1107,6 @@ body {
     margin-bottom: 30px
 }
 
-.starup-project-image>img {
-    max-width: 100%;
-    height: auto
-}
-
 .project-card-head {
     color: #24292e;
     font-size: 25px;
@@ -1136,9 +1131,6 @@ body {
 }
 
 @media (max-width:768px) {
-    .starup-project-image {
-        display: none
-    }
 
     .project-subtitle {
         font-size: 16px;

@@ -54,9 +54,6 @@
                     skillName: "Python",
                     fontAwesomeClassname: "fab fa-python"
                 }, {
-                    skillName: "Swift",
-                    fontAwesomeClassname: "fab fa-swift"
-                }, {
                     skillName: "Angular",
                     fontAwesomeClassname: "fab fa-angular"
                 }, {

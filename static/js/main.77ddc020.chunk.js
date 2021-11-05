@@ -389,7 +389,7 @@
                     href: "#achievements"
                 }, "Projects")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#projects"
-                }, "MOOCs")), l.a.createElement("li", null, l.a.createElement("a", {
+                }, "Certifications")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#blogs"
                 }, "Achievements")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#contact"

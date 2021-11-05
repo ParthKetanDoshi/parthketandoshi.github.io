@@ -382,8 +382,6 @@
                 }, "Skills")), !0 === e && l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#experience"
                 }, "Experience")), l.a.createElement("li", null, l.a.createElement("a", {
-                    href: "#opensource"
-                }, "Git Snip")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#achievements"
                 }, "Projects")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#projects"

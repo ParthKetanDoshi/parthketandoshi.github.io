@@ -140,11 +140,11 @@
                     desc: "Organised and Volunteered in various Technical and Non-technical events, workshops, codelabs and an Industrial Visit and headed a council that comprised of various teams"
                 }]
             },
-            o = {
-                githubConvertedToken: "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",
-                githubUserName: "ParthKetanDoshi",
-                showGithubProfile: "true"
-            },
+            // o = {
+            //     githubConvertedToken: "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",
+            //     githubUserName: "ParthKetanDoshi",
+            //     showGithubProfile: "true"
+            // },
             m = {
                 title: "MOOCs",
                 subtitle: "",
@@ -381,9 +381,11 @@
                     href: "#skills"
                 }, "Skills")), !0 === e && l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#experience"
-                }, "Experience")), l.a.createElement("li", null, l.a.createElement("a", {
-                    href: "#opensource"
-                }, "Git Snip")), l.a.createElement("li", null, l.a.createElement("a", {
+                }, "Experience")), 
+                // l.a.createElement("li", null, l.a.createElement("a", {
+                //     href: "#opensource"
+                // }, "Git Snip")), 
+                l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#achievements"
                 }, "Projects")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#projects"

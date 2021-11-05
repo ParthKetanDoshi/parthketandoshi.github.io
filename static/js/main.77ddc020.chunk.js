@@ -141,9 +141,9 @@
                 }]
             },
             o = {
-                githubConvertedToken: "7d34b0c0d6002c4755ee23d8d92fc2434c3a89df",
-                githubUserName: "ParthKetanDoshi",
-                showGithubProfile: "false"
+                // githubConvertedToken: "",
+                // githubUserName: "ParthKetanDoshi",
+                // showGithubProfile: "false"
             },
             m = {
                 title: "MOOCs",

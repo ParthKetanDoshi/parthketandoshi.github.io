@@ -141,7 +141,7 @@
                 }]
             },
             o = {
-                githubConvertedToken: "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",
+                githubConvertedToken: "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",
                 githubUserName: "ParthKetanDoshi",
                 showGithubProfile: "true"
             },

@@ -45,22 +45,25 @@
                 subTitle: "",
                 skills: [l()("\ud83d\udd38 Trainings:"), "Python App Development", "Android App Development", "iOS App Development"],
                 softwareSkills: [{
-                    skillName: "Python",
-                    fontAwesomeClassname: "fab fa-python"
-                }, {
                     skillName: "C",
                     fontAwesomeClassname: "fas fa-code"
                 }, {
                     skillName: "Java",
                     fontAwesomeClassname: "fab fa-java"
                 }, {
+                    skillName: "Python",
+                    fontAwesomeClassname: "fab fa-python"
+                }, {
                     skillName: "Swift",
                     fontAwesomeClassname: "fab fa-swift"
                 }, {
-                    skillName: "HTML 5",
+                    skillName: "Angular",
+                    fontAwesomeClassname: "fab fa-angular"
+                }, {
+                    skillName: "HTML",
                     fontAwesomeClassname: "fab fa-html5"
                 }, {
-                    skillName: "CSS 3",
+                    skillName: "CSS",
                     fontAwesomeClassname: "fab fa-css3-alt"
                 }, {
                     skillName: "JavaScript",
@@ -70,10 +73,10 @@
                     fontAwesomeClassname: "fas fa-database"
                 }, {
                     skillName: "Android",
-                    fontAwesomeClassname: "fab fa-google-play"
+                    fontAwesomeClassname: "fab fa-android"
                 }, {
                     skillName: "iOS",
-                    fontAwesomeClassname: "fab fa-app-store"
+                    fontAwesomeClassname: "fab fa-app-store-ios"
                 }, {
                     skillName: "PWA",
                     fontAwesomeClassname: "fas fa-mobile-alt"
@@ -82,15 +85,12 @@
                     fontAwesomeClassname: "fas fa-fire"
                 }, {
                     skillName: "AppleScript",
-                    fontAwesomeClassname: "fas fa-terminal"
-                }, {
-                    skillName: "Version Control",
-                    fontAwesomeClassname: "fas fa-code-branch"
+                    fontAwesomeClassname: "fab fa-apple"
                 }, {
                     skillName: "Graphics",
                     fontAwesomeClassname: "fas fa-bezier-curve"
                 }, {
-                    skillName: "Internet of Things",
+                    skillName: "IoT",
                     fontAwesomeClassname: "fas fa-sitemap"
                 }, {
                     skillName: "Raspberry Pi",
@@ -98,6 +98,21 @@
                 }, {
                     skillName: "AR/VR",
                     fontAwesomeClassname: "fas fa-vr-cardboard"
+                }, {
+                    skillName: "GitHub",
+                    fontAwesomeClassname: "fab fa-github"
+                }, {
+                    skillName: "GitLab",
+                    fontAwesomeClassname: "fab fa-gitlab"
+                }, {
+                    skillName: "BitBucket",
+                    fontAwesomeClassname: "fab fa-bitbucket"
+                }, {
+                    skillName: "Jira",
+                    fontAwesomeClassname: "fab fa-jira"
+                }, {
+                    skillName: "Jenkins",
+                    fontAwesomeClassname: "fab fa-jenkins"
                 }]
             },
             s = {

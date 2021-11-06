@@ -115,6 +115,18 @@
             s = {
                 viewExperiences: !0,
                 experience: [{
+                    role: "Associate Software Engineer",
+                    company: "Zycus Infotech Pvt Ltd",
+                    companylogo: "static/media/zycus.jpg",
+                    date: "Januart 2021 onwards",
+                    desc: "Desc for Zycus"
+                },{
+                    role: "Volunteer",
+                    company: "Teach For India",
+                    companylogo: "static/media/teachforIndia.png",
+                    date: "September 2020 \u2013 December 2020",
+                    desc: "Desc for TFI"
+                },{
                     role: "Tech Mentor",
                     company: "CampK12",
                     companylogo: a(62),
@@ -150,6 +162,12 @@
                     companylogo: a(67),
                     date: "May 2017 \u2013 April 2018",
                     desc: "Organised and Volunteered in various Technical and Non-technical events, workshops, codelabs and an Industrial Visit and headed a council that comprised of various teams"
+                }, {
+                    role: "Core Team Member",
+                    company: "TAPtheTECH",
+                    companylogo: "static/media/tapthetech.png",
+                    date: "March 2013 onwards",
+                    desc: "Desc for TAPtheTECH"
                 }]
             },
             o = {

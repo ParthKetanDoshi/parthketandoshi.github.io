@@ -118,14 +118,14 @@
                     role: "Associate Software Engineer",
                     company: "Zycus Infotech Pvt Ltd",
                     companylogo: "static/media/zycus.jpg",
-                    date: "Januart 2021 onwards",
-                    desc: "Desc for Zycus"
+                    date: "January 2021 onwards",
+                    desc: "Joined as a Trainee, working as an ASE in DewDrops(CoE) Team on Angular-based and Java-based Applications and on technologies like Nexus Repos, SonarQube, Jenkins and GoCD"
                 },{
                     role: "Volunteer",
                     company: "Teach For India",
                     companylogo: "static/media/teachforIndia.png",
                     date: "September 2020 \u2013 December 2020",
-                    desc: "Desc for TFI"
+                    desc: "Spent over 100 hours checking quizzes, providing feedback and conducting doubt solving sessions for students in 10th grade for Math & Science"
                 },{
                     role: "Tech Mentor",
                     company: "CampK12",
@@ -167,7 +167,7 @@
                     company: "TAPtheTECH",
                     companylogo: "static/media/tapthetech.png",
                     date: "March 2013 onwards",
-                    desc: "Desc for TAPtheTECH"
+                    desc: "Was among the core team member of TAPtheTECH (NGO, YouTube Channel & Coursera Learning Hub) where we conducted educational workshops and seminars for underprivileged students"
                 }]
             },
             o = {

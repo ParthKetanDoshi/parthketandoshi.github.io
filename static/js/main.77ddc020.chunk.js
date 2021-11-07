@@ -26,7 +26,7 @@
             i = {
                 username: "Parth Doshi",
                 title: "Hey, I'm Parth!",
-                subTitle: l()("A Computer Engineering Fresher with a Passion for Programming, a Knack for Problem Solving and an Aptitude for Learning, I am curious about various technologies and driven to explore them."),
+                subTitle: l()("A Computer Engineer with a Passion for Programming, a Knack for Problem Solving and an Aptitude for Learning, I am curious about various technologies and driven to explore them."),
                 resumeLink: "https://parthketandoshi.github.io/resume/ParthDoshi.pdf"
             },
             r = {

@@ -725,7 +725,7 @@
                 distance: "20px"
             }, l.a.createElement("div", {
                 className: "main",
-                id: "projects"
+                id: "cocurriculars_certifications"
             }, l.a.createElement("div", null, l.a.createElement("h1", {
                 className: "skills-heading"
             }, p.b.title), l.a.createElement("p", {
@@ -779,7 +779,7 @@
                 distance: "20px"
             }, l.a.createElement("div", {
                 className: "main",
-                id: "achievements"
+                id: "projects"
             }, l.a.createElement("div", {
                 className: "achievement-main-div"
             }, l.a.createElement("div", {
@@ -821,7 +821,7 @@
                 distance: "20px"
             }, l.a.createElement("div", {
                 className: "main",
-                id: "blogs"
+                id: "achievements"
             }, l.a.createElement("div", {
                 className: "blog-header"
             }, l.a.createElement("h1", {

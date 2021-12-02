@@ -427,11 +427,11 @@
                 }, "Skills")), !0 === e && l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#experience"
                 }, "Experience")), l.a.createElement("li", null, l.a.createElement("a", {
-                    href: "#achievements"
-                }, "Projects")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#projects"
+                }, "Projects")), l.a.createElement("li", null, l.a.createElement("a", {
+                    href: "#cocurriculars_certifications"
                 }, "Co-Curriculars & Certifications")), l.a.createElement("li", null, l.a.createElement("a", {
-                    href: "#blogs"
+                    href: "#achievements"
                 }, "Achievements")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#contact"
                 }, "Contact")))))

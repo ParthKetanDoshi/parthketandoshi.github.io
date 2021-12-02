@@ -176,9 +176,24 @@
                 // showGithubProfile: "false"
             },
             m = {
-                title: "MOOCs",
+                title: "Co-Curriculars & Certifications",
                 subtitle: "",
                 projects: [{
+                    image: "static/media/201516.png",
+                    link: "cocurricular/201516.pdf"
+                }, {
+                    image: "static/media/201617.png",
+                    link: "cocurricular/201617.pdf"
+                }, {
+                    image: "static/media/201718.png",
+                    link: "cocurricular/201718.pdf"
+                }, {
+                    image: "static/media/201819.png",
+                    link: "cocurricular/201819.pdf"
+                }, {
+                    image: "static/media/201920.png",
+                    link: "cocurricular/201920.pdf"
+                }, {
                     image: a(68),
                     link: "https://parthketandoshi.github.io/certifications/Kaggle.pdf"
                 }, {
@@ -415,7 +430,7 @@
                     href: "#achievements"
                 }, "Projects")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#projects"
-                }, "MOOCs")), l.a.createElement("li", null, l.a.createElement("a", {
+                }, "Co-Curriculars & Certifications")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#blogs"
                 }, "Achievements")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#contact"

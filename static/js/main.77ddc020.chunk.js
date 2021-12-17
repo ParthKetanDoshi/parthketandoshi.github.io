@@ -599,8 +599,7 @@
                 id: "experience"
             }, l.a.createElement(E.Fade, {
                 bottom: !0,
-                duration: 1e3,
-                distance: "20px"
+                duration: 1e3
             }, l.a.createElement("div", {
                 className: "experience-container",
                 id: "workExperience"

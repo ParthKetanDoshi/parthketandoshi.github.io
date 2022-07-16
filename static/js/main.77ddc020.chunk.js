@@ -288,7 +288,7 @@
             f = {
                 title: "Contact",
                 subtitle: "You can reach out to me at ",
-                number: "+918169664802",
+                number: "+917400020248",
                 email_address: "Parthdoshi97@GMail.com"
             }
     }, , , , , , , , , , , , , , , , , , , function (e, t, a) {

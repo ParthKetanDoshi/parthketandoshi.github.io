@@ -268,6 +268,15 @@
                 title: "Achievements",
                 subtitle: "",
                 blogs: [{
+                },{
+                    title: "Guest Speaker for Tech Routes webinar organised by CSI-KJSCE"
+                },{
+                    title: "Individual Recognition for Zycus Value of Agility for March 2022 and August 2022"
+                },{
+                    title: "Core member of Funzastic committee organizing cultural and fun activities"
+                },{
+                    title: "Automated and Enhanced Icon Generation and Publishing process using Open Source Libraries"
+                },{
                     title: "Organizing Head of Industrial Visit and Outbound Activity"
                 }, {
                     title: "Core Member of TAPtheTECH (NGO, YouTube Channel & Coursera Learning Hub)"

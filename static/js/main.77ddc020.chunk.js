@@ -268,7 +268,6 @@
                 title: "Achievements",
                 subtitle: "",
                 blogs: [{
-                },{
                     title: "Guest Speaker for Tech Routes webinar organised by CSI-KJSCE"
                 },{
                     title: "Individual Recognition for Zycus Value of Agility for March 2022 and August 2022"

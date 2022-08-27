@@ -32,7 +32,7 @@
             r = {
                 github: "https://github.com/parthketandoshi",
                 gitlab: "https://gitlab.com/parthketandoshi",
-                gmail: "parthdoshi97@gmail.com",
+                gmail: "parthketandoshi@gmail.com",
                 linkedin: "https://www.linkedin.com/in/parthketandoshi/",
                 behance: "https://www.behance.net/parthketandoshi",
                 devto: "https://dev.to/parthketandoshi",
@@ -296,8 +296,8 @@
             f = {
                 title: "Contact",
                 subtitle: "You can reach out to me at ",
-                number: "+917400020248",
-                email_address: "Parthdoshi97@GMail.com"
+                number: "+14708380620",
+                email_address: "parthketandoshi@gmail.com"
             }
     }, , , , , , , , , , , , , , , , , , , function (e, t, a) {
         "use strict";

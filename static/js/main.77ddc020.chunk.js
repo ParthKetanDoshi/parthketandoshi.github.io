@@ -26,7 +26,7 @@
             i = {
                 username: "Parth Doshi",
                 title: "Hey, I'm Parth!",
-                subTitle: l()("A Computer Engineer with a Passion for Programming, a Knack for Problem Solving and an Aptitude for Learning, I am curious about various technologies and driven to explore them."),
+                subTitle: l()("A Computer Engineer with a Passion for Programming, a Knack for Problem Solving and an Aptitude for Learning, I am curious about various technologies and driven to explore them.",[l()("\ud83d\udd38 Education:"), "Master of Science, Information Systems","Georgia State Univerisity, J Mack Robinson College of Business, Current GPA-3.7", "Bachelor of Engineering, Computer Engineering", "University of Mumbai, Overall GPA-3.0"]),
                 resumeLink: "https://parthketandoshi.github.io/resume/ParthDoshi.pdf"
             },
             r = {
@@ -115,10 +115,16 @@
             s = {
                 viewExperiences: !0,
                 experience: [{
+                    role: "Graduate Research Assistant",
+                    company: "Georgia State University",
+                    companylogo: "static/media/gsu.png",
+                    date: "August 2022 onwards",
+                    desc: "Graduate Research Assistant researching advances in digital business strategy & fundamentals of robotic process automation"
+                },{
                     role: "Associate Software Engineer",
                     company: "Zycus Infotech Pvt Ltd",
                     companylogo: "static/media/zycus.jpg",
-                    date: "January 2021 onwards",
+                    date: "January 2021 - August 2022",
                     desc: "Joined as a Trainee, working as an ASE in DewDrops(CoE) Team on Angular-based and Java-based Applications and on technologies like Nexus Repos, SonarQube, Jenkins and GoCD"
                 },{
                     role: "Volunteer",

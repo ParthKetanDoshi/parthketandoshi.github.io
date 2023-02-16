@@ -214,8 +214,8 @@
                     link: "https://parthketandoshi.github.io/certifications/Udemy.pdf"
                 }, 
                 {
-                    image: "static/media/spoken_tutorials.png",
-                    link: "https://parthketandoshi.github.io/certifications/Spoken_Tutorials.pdf"
+                    image: "static/media/linkedinlearning.png",
+                    link: "https://parthketandoshi.github.io/certifications/LinkedIn_Learning.pdf"
                 }
             ]
             },

@@ -11867,7 +11867,7 @@
         e.exports = function (e) {
             return e = i({}, {
                     protocol: o,
-                    baseUrl: "//twemoji.maxcdn.com/2/",
+                    baseUrl: "//cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/",
                     size: "72x72",
                     ext: ".png",
                     props: null

@@ -453,6 +453,10 @@ body {
     background-color: #f48024
 }
 
+.leetcode i {
+    background-color: #ffd438
+}
+
 .instagram i {
     background-color: #c13584
 }
@@ -472,6 +476,7 @@ body {
 .gitlab i:hover,
 .google i:hover,
 .instagram i:hover,
+.leetcode i:hover,
 .linkedin i:hover,
 .medium i:hover,
 .stack-overflow i:hover,

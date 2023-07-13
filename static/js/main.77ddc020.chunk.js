@@ -115,6 +115,12 @@
             s = {
                 viewExperiences: !0,
                 experience: [{
+                    role: "Full Stack Software Engineer",
+                    company: "AVPS Technologies Inc",
+                    companylogo: "static/media/avps.png",
+                    date: "May 2023 onwards",
+                    desc: "Full Stack Software Engineer working on building an EdTech Platform using Java Spring Boot, MongoDB and React"
+                },{
                     role: "Graduate Research Assistant",
                     company: "Georgia State University",
                     companylogo: "static/media/gsu.png",

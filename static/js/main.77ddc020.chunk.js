@@ -115,10 +115,10 @@
             s = {
                 viewExperiences: !0,
                 experience: [{
-                    role: "Full Stack Software Engineer",
-                    company: "AVPS Technologies Inc",
+                    role: "Full Stack Software Engineer Co-op",
+                    company: "AVPS",
                     companylogo: "static/media/avps.png",
-                    date: "May 2023 onwards",
+                    date: "May 2023 - September 2023",
                     desc: "Full Stack Software Engineer working on building an EdTech Platform using Java Spring Boot, MongoDB and React"
                 },{
                     role: "Graduate Research Assistant",

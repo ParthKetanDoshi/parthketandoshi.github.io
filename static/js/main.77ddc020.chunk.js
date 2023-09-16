@@ -136,43 +136,43 @@
                     role: "Volunteer",
                     company: "Teach For India",
                     companylogo: "static/media/teachforIndia.png",
-                    date: "September 2020 \u2013 December 2020",
+                    date: "September 2020 - December 2020",
                     desc: "Spent over 100 hours checking quizzes, providing feedback and conducting doubt solving sessions for students in 10th grade for Math & Science"
                 },{
                     role: "Tech Mentor",
                     company: "CampK12",
                     companylogo: a(62),
-                    date: "April 2020 \u2013 May 2020",
+                    date: "April 2020 - May 2020",
                     desc: "Worked as an instructor at CampK12 where I taught Android App Development on MIT App Inventor Platform using Scratch, 3D coding & VR using HatchXR platform and HTML, CSS and JavaScript using CodePen"
                 }, {
                     role: "Software Development Intern",
                     company: "FUBE Technology",
                     companylogo: a(63),
-                    date: "December 2018 \u2013 March 2019",
+                    date: "December 2018 - March 2019",
                     desc: "Worked on Yodais and Jom Channel products by Fube Technology, Malaysia for the Front-end of a Bootstrap based Website"
                 }, {
                     role: "Android & Python App Dev Intern",
                     company: "Trivia Software",
                     companylogo: a(64),
-                    date: "July 2018 \u2013 August 2018",
+                    date: "July 2018 - August 2018",
                     desc: "Developed Android and Python Desktop Application during this internship and gained a lot of knowledge related to these technologies"
                 }, {
                     role: "Wordpress Admin & SEO Manager Intern",
                     company: "Toppr",
                     companylogo: a(65),
-                    date: "February 2018 \u2013 June 2018",
+                    date: "February 2018 - June 2018",
                     desc: "Joined Toppr as a Content Development Intern and worked on technical aspects of the project like Wordpress Administration, SEO, MathJAX and also managing other Interns & Freelancers"
                 }, {
                     role: "Graphic Designing Intern",
                     company: "IdealVillage",
                     companylogo: a(66),
-                    date: "February 2018 \u2013 March 2018",
+                    date: "February 2018 - March 2018",
                     desc: "Designed promotional material like posters, banners and videos for IdealVillage, an NGO incubatee of CCBUL as part of an unpaid and work from home internship"
                 }, {
                     role: "General Secretary",
                     company: "ISTE Students' Chapter",
                     companylogo: a(67),
-                    date: "May 2017 \u2013 April 2018",
+                    date: "May 2017 - April 2018",
                     desc: "Organised and Volunteered in various Technical and Non-technical events, workshops, codelabs and an Industrial Visit and headed a council that comprised of various teams"
                 }, {
                     role: "Core Team Member",

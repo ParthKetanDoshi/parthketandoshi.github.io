@@ -259,10 +259,10 @@
                         url: "https://github.com/goru001/inltk"
                     }, {
                         name: "Gujarati Colab File",
-                        url: "https://colab.research.google.com/drive/12vVV9AOyRRPf_BkFGj_e27cdaUXHKJEO?usp=sharing"
+                        url: "https://parthketandoshi.github.io/Gujarati-News-Headlines-Classifier/"
                     }, {
                         name: "Marathi Colab File",
-                        url: "https://colab.research.google.com/drive/1kfykfypgbh8opnE7AlyMytWmaNqjmgsE?usp=sharing"
+                        url: "https://parthketandoshi.github.io/Marathi-News-Headlines-Classifier/"
                     }]
                 }, {
                     title: "Yodais & Jom Channel",

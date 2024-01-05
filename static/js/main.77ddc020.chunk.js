@@ -35,6 +35,7 @@
                 gmail: "parthketandoshi@gmail.com",
                 linkedin: "https://www.linkedin.com/in/parthketandoshi/",
                 behance: "https://www.behance.net/parthketandoshi",
+                leetcode: "https://leetcode.com/parthketandoshi/",
                 devto: "https://dev.to/parthketandoshi",
                 twitter: "https://twitter.com/ParthDoshi97",
                 facebook: "https://www.facebook.com/parthdoshi97",
@@ -359,6 +360,12 @@
                 target: "_blank"
             }, l.a.createElement("i", {
                 className: "fab fa-dev"
+            }),l.a.createElement("span", null)) : null, i.h.leetcode ? l.a.createElement("a", {
+                href: i.h.leetcode,
+                className: "icon-button leetcode",
+                target: "_blank"
+            }, l.a.createElement("i", {
+                className: "leetcode"
             }), l.a.createElement("span", null)) : null, i.h.twitter ? l.a.createElement("a", {
                 href: i.h.twitter,
                 className: "icon-button twitter",

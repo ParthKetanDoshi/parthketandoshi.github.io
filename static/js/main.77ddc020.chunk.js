@@ -354,18 +354,18 @@
                 target: "_blank"
             }, l.a.createElement("i", {
                 className: "fab fa-behance"
-            }), l.a.createElement("span", null)) : null, i.h.devto ? l.a.createElement("a", {
-                href: i.h.devto,
-                className: "icon-button devto",
-                target: "_blank"
-            }, l.a.createElement("i", {
-                className: "fab fa-dev"
             }),l.a.createElement("span", null)) : null, i.h.leetcode ? l.a.createElement("a", {
                 href: i.h.leetcode,
                 className: "icon-button leetcode",
                 target: "_blank"
             }, l.a.createElement("i", {
                 className: "leetcode"
+            }), l.a.createElement("span", null)) : null, i.h.devto ? l.a.createElement("a", {
+                href: i.h.devto,
+                className: "icon-button devto",
+                target: "_blank"
+            }, l.a.createElement("i", {
+                className: "fab fa-dev"
             }), l.a.createElement("span", null)) : null, i.h.twitter ? l.a.createElement("a", {
                 href: i.h.twitter,
                 className: "icon-button twitter",

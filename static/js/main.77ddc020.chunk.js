@@ -37,9 +37,9 @@
                 behance: "https://www.behance.net/parthketandoshi",
                 leetcode: "https://leetcode.com/parthketandoshi/",
                 devto: "https://dev.to/parthketandoshi",
-                twitter: "https://twitter.com/ParthDoshi97",
-                facebook: "https://www.facebook.com/parthdoshi97",
-                instagram: "https://www.instagram.com/parth_k_d/"
+                // twitter: "https://twitter.com/ParthDoshi97",
+                // facebook: "https://www.facebook.com/parthdoshi97",
+                // instagram: "https://www.instagram.com/parth_k_d/"
             },
             c = {
                 title: "Skills",

@@ -83,6 +83,10 @@
                     fontAwesomeClassname: "fas fa-database"
                 },
                 {
+                    skillName: "Database Management",
+                    fontAwesomeClassname: "fas fa-server"
+                },
+                {
                     skillName: "IoT",
                     fontAwesomeClassname: "fas fa-sitemap"
                 }

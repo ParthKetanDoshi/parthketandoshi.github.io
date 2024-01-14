@@ -517,11 +517,13 @@
             }, l.a.createElement(g, {
                 text: "Contact",
                 href: "#contact"
-            }), l.a.createElement(g, {
-                text: "Resume",
-                newTab: !0,
-                href: p.e.resumeLink
-            })))), 
+            }), 
+            // l.a.createElement(g, {
+            //     text: "Resume",
+            //     newTab: !0,
+            //     href: p.e.resumeLink
+            // })
+            ))), 
             l.a.createElement("div", {
                 className: "greeting-image-div"
             }, l.a.createElement("img", {

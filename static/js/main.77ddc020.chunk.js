@@ -44,7 +44,7 @@
             c = {
                 title: "Skills",
                 subTitle: "",
-                skills: [l()("\ud83d\ude80 Trainings:"), "Python App Development", "Android App Development", "iOS App Development"],
+                skills: [l()("🚀 Trainings:"), "⚡️ Certified Scrum Product Owner", "⚡️ SAFe PO/PM 5.1", "⚡️ Python App Development", "⚡️ Android App Development", "⚡️ iOS App Development"],
                 softwareSkills: [
                 {
                     skillName: "HTML",

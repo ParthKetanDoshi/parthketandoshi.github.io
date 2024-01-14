@@ -27,7 +27,7 @@
                 username: "Parth Doshi",
                 title: "Hey, I'm Parth!",
                 subTitle: l()("A Computer Engineer with a Passion for Programming, a Knack for Problem Solving and an Aptitude for Learning, I am curious about various technologies and driven to explore them.",[l()("\ud83d\udd38 Education:"), "Master of Science, Information Systems","Georgia State Univerisity, J Mack Robinson College of Business, Current GPA-3.7", "Bachelor of Engineering, Computer Engineering", "University of Mumbai, Overall GPA-3.0"]),
-                resumeLink: "https://parthketandoshi.github.io/resume/ParthDoshi.pdf"
+                // resumeLink: "https://parthketandoshi.github.io/resume/ParthDoshi.pdf"
             },
             r = {
                 github: "https://github.com/parthketandoshi",
@@ -521,7 +521,8 @@
                 text: "Resume",
                 newTab: !0,
                 href: p.e.resumeLink
-            })))), l.a.createElement("div", {
+            })))), 
+            l.a.createElement("div", {
                 className: "greeting-image-div"
             }, l.a.createElement("img", {
                 alt: "Parth Greeting",

@@ -63,6 +63,10 @@
                     fontAwesomeClassname: "fab fa-angular"
                 }, 
                 {
+                    skillName: "React",
+                    fontAwesomeClassname: "fab fa-react"
+                }, 
+                {
                     skillName: "C",
                     fontAwesomeClassname: "fas fa-code"
                 }, 
